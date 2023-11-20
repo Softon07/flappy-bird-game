@@ -1,0 +1,11 @@
+.h1 {
+    text-align: center;
+}
+
+#flappy-monster-game {
+    margin: 0 auto;
+    height: 600;
+    width: 900;
+    display: block;
+    border: 1px solid black;
+}
